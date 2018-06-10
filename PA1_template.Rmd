@@ -2,7 +2,7 @@
 title: "ReproResearchWk2.Rmd" 
 output: html_document
 ---
-## Reproducible Reasearch - Week 2 Assignment
+## Reproducible Reasearch - Week 2 Assignment..
 
 #Loading and preprocessing the data
 Read in data from file (activity.csv), add columns for Day of week and POSIXct date/time format
